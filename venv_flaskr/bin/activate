@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/mnt/c/Users/dhdresschers/git/py/flask/flaskr/venv_flaskr"
+VIRTUAL_ENV="/home/dion/git/py/flask/flaskr/venv_flaskr"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
